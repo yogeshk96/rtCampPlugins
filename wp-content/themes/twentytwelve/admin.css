@@ -1,0 +1,38 @@
+#sortable {
+  width:100%;
+}
+#sortable .ui-state-default {
+
+	width:300px;
+	height:300px;
+	float:left;
+	
+	display:inline-block;
+}
+#sortable .ui-state-default img {
+
+	width:300px;
+
+}
+.hide {
+display:none;
+}
+.hideImg {
+display:none;
+}
+.saveButton {
+
+width:100%;
+text-align:center;
+}
+.clear {
+
+clear:both;
+}
+.imgBox {
+
+  height:350px;
+  width:300px;
+  float:left;
+  margin:10px;
+}
